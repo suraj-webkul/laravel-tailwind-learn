@@ -1,0 +1,19 @@
+{
+    "name": "suraj.kashyap/admin",
+    "description": "This is sample post admin panel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SurajKashyap\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "suraj kashyap",
+            "email": "suraj.kashyap370@webkul.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
